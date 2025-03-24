@@ -14,7 +14,7 @@ in different files.
 	- Modelling files.
 	- Explanation files.
 
-Each of them can be found in their respective folder.
+The data can be obtained from [here](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset.).
 
 ## Data cleaning files
 In this step we eliminate variables, remove registers and impute
